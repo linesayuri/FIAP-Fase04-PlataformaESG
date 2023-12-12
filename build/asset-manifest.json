@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.425fab7c.js",
+    "static/js/787.46165114.chunk.js": "/static/js/787.46165114.chunk.js",
+    "static/media/banner.png": "/static/media/banner.0f096a1abf51959dc3ec.png",
+    "static/media/logo-stepsforfuture.png": "/static/media/logo-stepsforfuture.3fb3365b303a5390afc5.png",
+    "index.html": "/index.html",
+    "main.425fab7c.js.map": "/static/js/main.425fab7c.js.map",
+    "787.46165114.chunk.js.map": "/static/js/787.46165114.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.425fab7c.js"
+  ]
+}
